@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/yzy-text.iml" filepath="$PROJECT_DIR$/yzy-text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yzy-text-ssh.iml" filepath="$PROJECT_DIR$/yzy-text-ssh.iml" />
     </modules>
   </component>
 </project>
